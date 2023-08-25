@@ -17,3 +17,5 @@ The GitHub Team
 
 added a new line snapshot 
 
+I want to add a new line from snap for testing
+
