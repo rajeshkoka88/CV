@@ -1,5 +1,6 @@
 # CV
 # added a new line
+added a new line in master
 
 GitHub password reset
  
@@ -14,7 +15,7 @@ If you don’t use this link within 3 hours, it will expire. To get a new passwo
 Thanks,
 The GitHub Team
 
-added a new line snapshot
+added a new line snapshot 
 
 I want to add a new line from snap for testing
 
