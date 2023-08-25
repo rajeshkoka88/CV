@@ -14,3 +14,5 @@ If you don’t use this link within 3 hours, it will expire. To get a new passwo
 Thanks,
 The GitHub Team
 
+added a new line snapshot
+
